@@ -17,6 +17,7 @@ Similar to above, we wanted to figure out "Which gender provides the most traffi
 ![image](https://user-images.githubusercontent.com/111245707/205553333-1b0dd3da-115a-4f03-9cdf-8e9fc01cedae.png)
 
 For the final image we wanted to show the difference between the userbase: Subscriber vs Customers. Our data shows subscribers tend to be more active throughout the week, there was also more activity from female subscribers than males.
+
 ![image](https://user-images.githubusercontent.com/111245707/205554022-94aed7ac-857c-4c07-a313-2808b0413a67.png)
 
 Summary
